@@ -127,7 +127,7 @@ def merge_steam_accounts(
 # CONFIGURATION & EXECUTION
 # ==========================================
 if __name__ == "__main__":
-    STEAM_API_KEY = "E56D21B82A054BEAB30A2C62A538EE1A"
+    STEAM_API_KEY = "STEAM_API"
 
     OUTPUT_FILE = "merged_steam_extended_library.csv"
 
