@@ -4,13 +4,17 @@
   "features": {
 	  "ghcr.io/devcontainers/features/docker-in-docker:2": {
 	    "version": "latest"
-	  }
+	  },
+      "ghcr.io/devcontainers/features/nvidia-cuda:1": {
+      	"installCudnn": true
+      }
       /*"ghcr.io/rocker-org/devcontainer-features/rstudio-server:0": {} */     
   },
 	/*"postAttachCommand": {"rstudio-start": "rserver"},*/
   "customizations": {
     "vscode": {
       "extensions": [
+        "ms-python.python",
         "ms-toolsai.jupyter"
       ]
     }
