@@ -1,0 +1,127 @@
+appid,playtime_forever,playtime_2weeks,steam_account_ids,name,img_icon_url,has_community_visible_stats,capsule_filename,has_workshop,has_market,has_dlc,content_descriptorids,has_leaderboards,sort_as,playtime_hours
+282800,0,0.0,76561199483779798,100% Orange Juice,baaf4be38deeb8a631567ee6c651ca23b65c834a,True,1076ed1e28e33835a110dc1eac8139b96ef7de2d/library_600x900.jpg,True,True,True,,True,,0.0
+503820,245,0.0,76561198116491768,A Detective's Novel,69a39477c3418ede5f976b63fcdfb9633ca67ce6,,portrait.png,False,False,False,,,,4.08
+285580,38,0.0,"76561198116491768, 76561198120249474",ACE - Arena: Cyber Evolution,bc3cae37618507076cdaa2617c02e6edbb14331a,True,portrait.png,False,False,True,,True,,0.63
+293500,18,0.0,"76561198116491768, 76561198120249474",Amazing World,a64bb6299342af445a3ad432c4bd1028a746b2f3,True,portrait.png,False,False,True,,,,0.3
+239200,0,0.0,"76561198116491768, 76561198120249474",Amnesia: A Machine for Pigs,3bf781ae80c6eeb8827819fb2ed92aa2353d3007,True,library_600x900.jpg,False,False,False,[5],,,0.0
+57300,0,0.0,"76561198116491768, 76561198120249474",Amnesia: The Dark Descent,2c08de657a8b273eeb55bb5bf674605ca023e381,True,library_600x900.jpg,True,False,True,[5],,,0.0
+266430,18,0.0,"76561198116491768, 76561198120249474",Anarchy Arcade,9e7b94941811cfabf33da4274b195aa3b5683da6,True,library_600x900.jpg,True,False,False,,,,0.3
+91200,187,0.0,76561198116491768,Anomaly Warzone Earth,8b8010ddbc76c7a445648f89162f453ea7e1e101,True,library_600x900.jpg,False,False,True,,True,,3.12
+308040,323,0.0,76561198116491768,Back to Bed,030732feca4ee5746b201e4e8e06c003f4df7850,True,library_600x900.jpg,False,False,False,,,,5.38
+305260,18,0.0,"76561198116491768, 76561198120249474",Battle Islands,635072582531c9361a01a770b75fa93a61e1f3b7,True,portrait.png,False,False,False,,,,0.3
+582660,960,0.0,"76561199483779798, 76561198116491768, 76561198120249474",Black Desert,bf5ccace0a692720984827bf042143d0d4b28a42,,388d66db256e9e20778ac5ded1a21e34d160adbe/library_capsule.jpg,False,False,True,"[1, 5]",,,16.0
+836620,129,0.0,"76561198116491768, 76561198120249474",Black Desert (Retired),fd76e9933c56ebb5536b0396cfdf7c2dcd3e029c,,library_600x900.jpg,False,False,False,,,,2.15
+80360,536,0.0,76561198116491768,Blackwell Deception,d4e07855c49b1fd6eae67d04d9ac111d18a945a8,True,library_600x900.jpg,False,False,True,,,,8.93
+258220,176,0.0,76561198116491768,Blood Knights,38cfa3e118ce05301ba36b439a40e82ee76173d8,True,library_600x900.jpg,False,False,False,,,,2.93
+447940,0,0.0,76561198116491768,Brine,209e241f7551770a005f12e4065c767da79fda9e,,portrait.png,False,False,False,,,,0.0
+219640,4428,0.0,"76561198116491768, 76561198120249474",Chivalry: Medieval Warfare,d4628be29b7e97d93a3404870dfe79642b90b907,True,library_600x900.jpg,True,False,True,"[2, 5]",,,73.8
+228200,3647,0.0,76561198120249474,Company of Heroes ,df92dc239acb3cf5d3e3eba645f3df2aaf7f91ad,True,library_600x900.jpg,True,False,True,,,,60.78
+4560,0,0.0,76561198120249474,Company of Heroes - Legacy Edition,64946619217da497c9b29bc817bb40dd7d28c912,,library_600x900.jpg,False,False,True,"[2, 5]",,,0.0
+231430,4417,0.0,"76561198116491768, 76561198120249474",Company of Heroes 2,5e7e1866fb4f33a17393b0441cd1c750dbd91c5f,True,library_600x900.jpg,True,False,True,,,,73.62
+209670,4037,0.0,"76561198116491768, 76561198120249474",Cortex Command,2976d0e44d338d1f6136d222d8b2a764a1dfee2e,True,library_600x900.jpg,True,False,False,"[2, 5]",,,67.28
+730,10,0.0,76561199483779798,Counter-Strike 2,8dbc71957312bbd3baea65848b545be9eae2a355,True,library_600x900.jpg,True,True,True,"[2, 5]",,,0.17
+203770,3642,0.0,"76561198116491768, 76561198120249474",Crusader Kings II,56e9c15cbeb6c1f873f7f1dc757bae7618861484,True,library_600x900.jpg,True,False,True,,,,60.7
+317470,9,0.0,76561198120249474,Cubic Castles,134a305f7a654d64d0b2d45f31dce756ecade93b,,portrait.png,False,False,False,,,,0.15
+423550,305,0.0,76561198116491768,Day D: Tower Rush,4e5e43c788d0f27eff83e2a53c4e8efc95d7b6ec,True,library_600x900.jpg,False,False,True,,,,5.08
+383180,0,0.0,76561199483779798,Dead Island Riptide Definitive Edition,68ea0c6d8ed1d089687da6318a62a7c3e3b5741b,True,library_600x900.jpg,False,False,False,"[2, 5]",,,0.0
+224600,18,0.0,"76561198116491768, 76561198120249474",Defiance,d288f803179f2a5925a096e0be8495c36b522d6f,,library_600x900.jpg,False,False,True,,,,0.3
+214340,0,0.0,76561199483779798,Deponia,48a94d33cae6065b0bedf7eefd01bd5321c7c729,True,library_600x900.jpg,False,False,True,,,,0.0
+226620,0,0.0,76561199483779798,Desktop Dungeons,f4c30e39f4ce6da904793d7c91db59a0a70b8b3a,True,library_600x900.jpg,False,False,True,,,,0.0
+300040,9,0.0,76561198120249474,Divine Souls,f811a03ea8886ba5e2c74b0cc639feeaaf16241c,,portrait.png,False,False,True,,,,0.15
+289130,0,0.0,76561199483779798,ENDLESS Legend™,02277be6b9b09671b857948006316057974d7036,True,library_600x900.jpg,True,False,True,,,,0.0
+232050,274,0.0,76561198116491768,Eador. Masters of the Broken World,8539a7121aa104260a2f61948c041cdd2d176731,True,library_600x900.jpg,False,False,True,,,,4.57
+6100,0,0.0,"76561199483779798, 76561198116491768",Eets,fbaf69a669637c8bd5cebdd9a8f06b4f37831235,,b05abed2262852feb964f73b12de2b736494d2af/library_capsule.jpg,False,False,True,,,,0.0
+467370,248,0.0,76561198116491768,Escape This,186da47522b63cf52d46ad5cf1c0fdb386b874f8,True,portrait.png,False,False,False,,,,4.13
+286570,562,0.0,"76561198116491768, 76561198120249474",F1 2015,efba76526ca5cd18fabc9878c840ac583f08ead5,True,library_600x900.jpg,False,False,False,,True,,9.37
+304390,33,0.0,76561198120249474,FOR HONOR,24ec1359d4c27b2aef9ad3fc59fdfa495789d6e6,True,93723b4e6f256d52d617b04789ffd4eee77e7e2b/library_capsule.jpg,False,False,True,"[2, 5]",,,0.55
+38400,0,0.0,76561198116491768,Fallout,df0001a1aa011e6c7a8f38a65908070eba3d2f61,,library_600x900.jpg,False,False,True,,,,0.0
+660160,0,0.0,76561199483779798,Field of Glory II,69e42fb6bde64f155cd5efc2f5c5a4642c18e9a4,True,library_600x900.jpg,False,False,True,,,,0.0
+227700,26,0.0,76561198116491768,Firefall,9b00a74fea9759c7559e7e20a81b4f25bd0a61b4,True,portrait.png,False,False,True,,,,0.43
+654310,0,0.0,76561198120249474,For Honor - Public Test,64dd8eca34f0b5faeda135f057da1973806852f2,,portrait.png,False,False,False,,,,0.0
+334210,69,0.0,"76561198116491768, 76561198120249474",Fortified,535ed4d2687fbab89d9e60d8cd0fffd2cbeb4b4f,True,portrait.png,False,False,True,,,,1.15
+301480,315,0.0,76561198116491768,GEARCRACK Arena,f21124ef54c8b3c9ef62fa7593e4ae53ad043017,,portrait.png,False,False,True,,,,5.25
+202200,1,0.0,"76561198116491768, 76561198120249474",Galactic Civilizations II: Ultimate Edition,74ef4f8f1c2b4879a54bd93b95eec8f5d20f3727,True,139ab03e1dfc1c16b36b04a778672429ecdbcad1/library_capsule.jpg,False,False,True,,,,0.02
+363480,0,0.0,76561198116491768,Grave Prosperity: Redux- part 1,7248da3f7dd02508039090a5b30e99134d59e9a6,,portrait.png,False,False,False,,,,0.0
+252150,196,0.0,76561198116491768,Grimm,d9f47d9878d2242ac2b57491567eaa6290f13258,,library_600x900.jpg,False,False,True,,,,3.27
+293540,18,0.0,"76561198116491768, 76561198120249474",Guns and Robots,52b85a957b75536edcea84dbf7b6d9769b5cc913,True,portrait.png,False,False,True,,,,0.3
+608800,0,0.0,"76561198116491768, 76561198120249474",Guns of Icarus Alliance,d7f95f73cbed6458a74bcd4a7c0872fe332367ec,True,library_600x900.jpg,True,False,True,,,,0.0
+209080,679,0.0,"76561198116491768, 76561198120249474",Guns of Icarus Online,968e8c0b7a55f0229392278123dfd486140c9421,True,library_600x900.jpg,True,False,True,,,,11.32
+236870,562,0.0,"76561198116491768, 76561198120249474",HITMAN™,a4c559b6a3a7706d2f6c44a84e1daa8532bee741,True,library_600x900.jpg,False,False,True,"[2, 5]",,,9.37
+365450,69,0.0,"76561198116491768, 76561198120249474",Hacknet,2445c4ead6ee47784a326922271ec1c0b41d64e2,True,library_600x900.jpg,True,False,True,[5],,,1.15
+220,0,0.0,76561199483779798,Half-Life 2,fcfb366051782b8ebf2aa297f3b746395858cb62,True,ac2f074d790656a06ef8305bd54a6f64e9a70082/library_600x900.jpg,True,False,True,"[2, 5]",,,0.0
+320,0,0.0,76561199483779798,Half-Life 2: Deathmatch,795e85364189511f4990861b578084deef086cb1,,library_600x900.jpg,False,False,True,"[2, 5]",,,0.0
+360,0,0.0,76561199483779798,Half-Life Deathmatch: Source,40b8a62efff5a9ab356e5c56f5c8b0532c8e1aa3,,library_600x900.jpg,False,False,True,"[2, 5]",,,0.0
+1433340,0,0.0,76561199483779798,Happy's Humble Burger Farm,fce7f7d050591517802de41deff591e42d495601,True,ff79f47dcfaa76cbaf053ac40a5714017b6b53f5/library_capsule.jpg,False,False,True,[5],True,,0.0
+422100,249,0.0,76561198120249474,Heaven Island Life,685998a7b9bd45ddd2344cd70912634e8038fc6f,,portrait.png,False,False,True,,,,4.15
+55100,0,0.0,76561198116491768,Homefront,52d4f669d6aa00c92406457d430ed5aa6a035c54,True,library_600x900.jpg,False,False,True,"[2, 5]",,,0.0
+383270,0,0.0,76561199483779798,Hue,48682a5e83cf7f011a15b68f460a972635742d06,True,library_600x900.jpg,False,False,True,,,,0.0
+257730,18,0.0,"76561198116491768, 76561198120249474",Infinity Wars - Animated Trading Card Game,9592d2d68b3cac0cba30448745cdcd277d14a650,,773667ff4a36bd226292866d3c964d05b2396076/library_capsule.jpg,False,False,True,,,,0.3
+31700,0,0.0,76561198116491768,Iron Grip: Warlord,9aa985a825f0c7f528c312126f182eada9e01b83,True,portrait.png,False,False,True,,True,,0.0
+1703140,0,0.0,76561199483779798,Isle of Jura,56e2dd9001f5ec270f01115af28f47d8cd9bcbb1,True,library_600x900.jpg,False,False,False,,,,0.0
+323580,291,0.0,76561198116491768,Jotun: Valhalla Edition,69b336a11a1e8acee4034b970a89c1df7cf53b32,True,library_600x900.jpg,False,False,True,,,,4.85
+382120,301,0.0,76561198116491768,Journey To The Center Of The Earth,a014d6cdf709991a0aee4d36028fffa64a2d5870,,portrait.png,False,False,False,,,,5.02
+261110,355,0.0,76561198116491768,Killer is Dead,4bb1ca7ca4ffa4be186bdf0d01d0f07c71283fd3,True,library_600x900.jpg,False,False,False,"[1, 2, 5]",,,5.92
+1250,660,0.0,76561198116491768,Killing Floor,d8a2d777cb4c59cf06aa244166db232336520547,True,library_600x900.jpg,True,False,True,"[2, 5]",,,11.0
+35420,0,0.0,76561198116491768,Killing Floor Mod: Defence Alliance 2,ae7580a60cf77b754c723c72d5e31d530fbe7804,True,portrait.png,False,False,False,,,,0.0
+368230,803,0.0,"76561198116491768, 76561198120249474",Kingdom: Classic,0d741624c643448ff74741f50a4b80a24529b869,True,library_600x900.jpg,False,False,True,,,,13.38
+391720,484,0.0,"76561198116491768, 76561198120249474",Layers of Fear (2016),0fc90b925c7bbdcc95df6599a01b80dff18e6bbb,True,library_600x900.jpg,False,False,True,[5],,,8.07
+42120,0,0.0,76561198116491768,Lead and Gold - Gangs of the Wild West,56f97f9aa6cb5cb8880401dcf61ec556405c45ab,True,library_600x900.jpg,False,False,True,,True,,0.0
+550,322,0.0,"76561198116491768, 76561198120249474",Left 4 Dead 2,7d5a243f9500d2f8467312822f8af2a2928777ed,True,library_600x900.jpg,True,False,True,"[2, 5]",,,5.37
+1367080,185519,775.0,"76561199483779798, 76561198116491768",MOBILE SUIT GUNDAM BATTLE OPERATION 2,9809ee465efa9cdc158bdf5516758edc2b29344c,True,9c4a723d628445c91e24f1918e846045846910fb/library_capsule.jpg,False,False,True,,,,3091.98
+1507190,0,0.0,76561199483779798,Machinika Museum,f4bb2176803e4b08c0da1032ea59d9a995ccff5b,,library_600x900.jpg,False,False,True,,,,0.0
+2767030,589,0.0,76561199483779798,Marvel Rivals,839b4712925b95702ca56e0c4d399adf54f4d617,True,108a2d7bfd11ce1f5abe1abd9a51914bb494ced0/library_capsule.jpg,False,False,True,,,,9.82
+2452280,584,0.0,76561199483779798,Mecha BREAK,9f7f1b2fce4b229fdd7c67aa78d825d4f3f42cb7,True,d335569799ffaeeb0b1bdf40d7465ed0ca6bf925/library_capsule.jpg,False,False,True,[5],,,9.73
+489520,245,0.0,"76561199483779798, 76561198116491768",Minion Masters,ad87d123224d786a413a6021ddaf9257e26c0a28,True,library_600x900.jpg,False,False,True,,,,4.08
+368420,622,0.0,"76561198116491768, 76561198120249474",Mirage: Arcane Warfare,c0b61f2a0d0499217b8b947eab1a995966dfe3c8,,portrait.png,False,False,True,,,,10.37
+113020,4679,0.0,"76561198116491768, 76561198120249474",Monaco,169e693854d9f70984987fa3b6b5f1f9eb27122a,True,library_600x900.jpg,True,False,True,,True,,77.98
+638070,69,0.0,"76561198116491768, 76561198120249474",Murderous Pursuits,5e7b5bfa87997037ace85ae60883309a8cb0ffbf,True,library_600x900.jpg,False,False,True,,True,,1.15
+15700,569,0.0,76561198116491768,Oddworld: Abe's Oddysee,146cabd04a2e1a813085fbc4511c10ca01fac51b,,library_600x900.jpg,False,False,True,"[2, 5]",,Oddworld 1: Abe's Oddysee,9.48
+769920,0,0.0,"76561198116491768, 76561198120249474",Odysseus Kosmos and his Robot Quest - Episode 1,ca1193ab54d637332905483eeda582f030d8c54d,True,portrait.png,False,False,True,,,,0.0
+305050,335,0.0,76561198116491768,Outland,bdfa511693bd167835fb1d32331f0a579dcdb9a5,True,library_600x900.jpg,False,False,True,,,,5.58
+238320,196,0.0,76561198116491768,Outlast,46bd3df92d4693d3b2af113bf8f31c2cbdadb20a,True,library_600x900.jpg,False,False,True,"[1, 2, 5]",,,3.27
+218620,559,0.0,76561198116491768,PAYDAY 2,a6abc0d0c1e79c0b5b0f5c8ab81ce9076a542414,True,library_600x900.jpg,True,True,True,"[2, 5]",,,9.32
+232770,0,0.0,76561199483779798,POSTAL,cc74f7112ea3820e6f08eb580a03d7b37325e51c,True,library_600x900.jpg,False,False,True,"[2, 5]",,,0.0
+418670,0,0.0,76561199483779798,Pankapu,646b618afcddf400428cb3e77034be3eb1bbbf80,True,library_600x900.jpg,False,False,True,,True,,0.0
+289440,310,0.0,76561198116491768,Perimeter,d9b05c8511fdaa4500e6678d9caac5475996566f,,library_600x900.jpg,False,False,False,,,,5.17
+490220,506,0.0,"76561198116491768, 76561198120249474",Prismata,e7987181036cc593e3ffcdf2cd28a9211c7623ce,True,library_600x900.jpg,False,False,True,,,,8.43
+3830,651,0.0,76561198116491768,Psychonauts,460b6471db7d83ee6943c1a87f7a9f2898634952,True,library_600x900.jpg,False,False,True,,,,10.85
+611500,0,0.0,76561198120249474,Quake Champions,539032fb1e8b41d0a48ff11bf63bfe7918ace24c,True,library_600x900.jpg,False,False,True,"[2, 5]",,,0.0
+282440,19,0.0,"76561198116491768, 76561198120249474",Quake Live,bac9828d3e193c948801b14660490576fbbf9f72,True,library_600x900.jpg,True,False,True,"[2, 5]",,,0.32
+304890,26,0.0,76561198116491768,Quantum Rush Online,bb498d997c764d0a811571ab3668aa29bc8f6625,,portrait.png,False,False,False,,,,0.43
+289460,0,0.0,76561198116491768,RC Cars,c935f15ed63a1f423d89d4250de8b702f40510ff,,library_600x900.jpg,False,False,False,,,,0.0
+235900,0,0.0,76561199483779798,RPG Maker XP,d4fae8dbf49b2d8fda0aa9d74323529e41d200a2,,portrait.png,False,False,True,,,,0.0
+99300,0,0.0,76561198120249474,Renegade Ops,def6f08f177180ab15bbf7c90ba8d323159ecd7d,True,library_600x900.jpg,False,False,True,,,,0.0
+295550,26,0.0,76561198116491768,Royal Quest,59b34a7185403482b6316838856663ef445dc59e,True,portrait.png,False,False,True,,,,0.43
+449680,292,0.0,76561198116491768,SAMOLIOTIK,8d660ffda9bbbea23afe83b2e14077035144a210,True,portrait.png,False,False,True,,,,4.87
+34270,3697,0.0,76561198120249474,SEGA Mega Drive & Genesis Classics,2cda9462fbaf9309e5aedce99ad8452adf8a40bd,True,library_600x900.jpg,True,False,True,,,,61.62
+9480,1,0.0,76561198116491768,Saints Row 2,1a0aef912300d396a67f9eda9d8b4e66c41c9891,,library_600x900.jpg,False,False,False,"[1, 2, 5]",,,0.02
+210770,197,0.0,76561198116491768,Sanctum 2,4cdfa1d19be460374a111b718ce3a204f21ea1dc,True,library_600x900.jpg,False,False,True,,True,,3.28
+233130,1280,0.0,"76561198116491768, 76561198120249474",Shadow Warrior,5d7c205ce18f17a99c95ff81499c2f496e0570f2,True,library_600x900.jpg,False,False,True,"[2, 5]",,,21.33
+3910,0,0.0,76561198116491768,Sid Meier's Civilization III: Complete,9cc953317dabd7b8e39690472872b37104b5e625,,library_600x900.jpg,False,False,False,,,,0.0
+63380,4149,0.0,76561198120249474,Sniper Elite V2,0092da2541424d4c1d10c1757dcb8104c37323ac,True,library_600x900.jpg,False,False,True,,True,Sniper Elite 2,69.15
+547960,228,0.0,76561198116491768,Space Beret,0753aaaeae7ff9dd2c0b550b434d96c1e530de8e,True,portrait.png,False,False,False,,,,3.8
+1176710,0,0.0,76561199483779798,Space Crew: Legendary Edition,c1c0a0c7c7dae3525bc6a4bb07bc0bd69bc62ab0,True,library_600x900.jpg,False,False,True,,,,0.0
+50300,0,0.0,76561198116491768,Spec Ops: The Line,55ae859a90d61c08f18ed3aa0ee2579169d2c2bf,True,library_600x900.jpg,False,False,True,,,,0.0
+236150,289,0.0,76561198116491768,Starpoint Gemini 2,4a5235626d7fe3fa433c7b47a55de7013774be1d,True,library_600x900.jpg,True,False,True,,,,4.82
+439190,268,0.0,76561198120249474,Stories: The Path of Destinies,ed3383f9deed7e41515d34e544a67258fcf91c23,True,library_600x900.jpg,False,False,True,,,,4.47
+252850,609,0.0,76561198120249474,Streamline,8c7695a2e6017605e704a52c630090349f344ae2,True,portrait.png,False,False,True,,,,10.15
+65930,362,0.0,76561198116491768,The Bureau: XCOM Declassified,854f133d072a65e5577c2a21bf25ba863e4a6a23,True,library_600x900.jpg,False,False,True,,,,6.03
+67370,1,0.0,"76561198116491768, 76561198120249474",The Darkness II,6ca6291fe216a8cc5c56f01b1e7f83e396a8fa81,True,library_600x900.jpg,False,False,True,,,,0.02
+312990,20,0.0,"76561198116491768, 76561198120249474",The Expendabros,63305a7d0473b92c6d8830a3f62527e64c479e7c,,portrait.png,False,False,False,,,,0.33
+1053710,0,0.0,"76561199483779798, 76561198116491768",The Red Lantern,0efc0c5e80b66389d33981aceaf67b7309b4baec,True,library_600x900.jpg,False,False,False,[5],,,0.0
+265590,535,0.0,"76561198116491768, 76561198120249474",The Red Solstice,cc33fb26c140d04a20fb0fd5f549454458122322,True,library_600x900.jpg,False,False,True,"[2, 5]",True,,8.92
+96000,33,0.0,76561198120249474,The Tiny Bang Story,190760c7966fda0b4be9605de836e031f448fc49,,library_600x900.jpg,False,False,True,,,,0.55
+279640,36,0.0,76561198116491768,The Troma Project,7af68672dbfcb5f3d9f192f15bd5e6756f76179c,,library_600x900.jpg,False,False,False,[5],,,0.6
+207610,569,0.0,76561198116491768,The Walking Dead,87a13ae0a2a76488792924aa8bb0dd8a7760f931,True,library_600x900.jpg,False,False,True,"[2, 5]",,,9.48
+1712840,0,0.0,"76561199483779798, 76561198120249474",Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure,244954d1c6b9516a6a14c534ad0162b36cd7cbe8,True,library_600x900.jpg,False,False,False,,,,0.0
+263680,355,0.0,76561198116491768,Unearthed: Trail of Ibn Battuta - Episode 1 - Gold Edition,fb23d89c1652af5e3ca9c78e1582d2100b87a007,True,portrait.png,False,False,False,,,,5.92
+304930,0,0.0,"76561198116491768, 76561198120249474",Unturned,e18009fb628b35953826efe47dc3be556b689f4c,True,dd10c2c5dde22c3044c3cf1dcc17df8739e83dff/library_capsule.jpg,True,True,True,,,,0.0
+307290,38,0.0,76561198116491768,Velvet Sundown,204929769d9e85084fb11d1df399d5648a1d1ec9,,portrait.png,False,False,True,,,,0.63
+255520,0,0.0,"76561198116491768, 76561198120249474",Viscera Cleanup Detail: Shadow Warrior,56c3840d52a0da4f397d9991d368c75ed53d99fa,True,library_600x900.jpg,False,False,False,"[2, 5]",,,0.0
+251950,0,0.0,76561198120249474,WWII Online,ba388f11c3ce3560bbd99df5b47ccf600777ac3a,,f0d3f523c9f2b18bbd9a2426d43c2a561c922c8f/library_600x900.jpg,False,False,True,"[2, 5]",,,0.0
+489630,0,0.0,"76561199483779798, 76561198116491768","Warhammer 40,000: Gladius - Relics of War",ba6ea4fbeec62073763e103450e8aa7c5373d010,True,bb5aa1e802ad6e657f5b0bea50c817fbbdd59e41/library_capsule.jpg,True,False,True,,,,0.0
+55150,33,0.0,76561198120249474,"Warhammer 40,000: Space Marine - Anniversary Edition",46b0ce6e587472d1d56cc88dd32c8b57392f8b10,True,library_600x900.jpg,False,False,True,"[2, 5]",,,0.55
+552500,0,0.0,76561199483779798,Warhammer: Vermintide 2,a671f2ddf7359beba9702ac097baf6d50cb07202,True,54a7de937ef37ebae81b1f89c0122953b23355c9/library_capsule.jpg,True,False,True,"[2, 5]",,,0.0
+1134700,0,0.0,"76561199483779798, 76561198116491768",Wild Terra 2: New Lands,8594527d19edbfdb2ded666dd09573f4542c282f,True,library_600x900.jpg,False,False,True,,,,0.0
+270550,268,0.0,76561198116491768,Yet Another Zombie Defense,d9414db164fa12a1e2cb83a60056dccc77ea3f38,True,library_600x900.jpg,False,False,False,"[2, 5]",True,,4.47
+416030,306,0.0,76561198116491768,Your Quest,9ea9f6e04eb0b5ea8fa452e848efebe10053709f,,portrait.png,False,False,True,,,,5.1
